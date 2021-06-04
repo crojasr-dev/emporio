@@ -1,0 +1,13 @@
+.titulo_principal{
+    background-color: #ed6a2c;
+    padding: 10px;
+    color: white;
+}
+
+.bg-img{
+    background-image: url("img/eggs.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 600px;
+    width: auto;
+}
